@@ -11,7 +11,7 @@
 #include <ESP8266WebServer.h>
 
 const char* ssid = "[WifiGotchi]";
-const char* password = "Emf12345";
+const char* password = "******";
 int pushButton = 4;
 String wifi = "";
 int nbVlan  = 0;
